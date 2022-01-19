@@ -2,7 +2,8 @@
 
 - 🔭 I’m not working
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: https://br.linkedin.com/in/carlos-ant%C3%B4nio-gon%C3%A7alves-martins-9a41b6190
+- 📫 How to reach me:
+  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/carlos-ant%C3%B4nio-gon%C3%A7alves-martins-9a41b6190)
 
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=bomdiavei&include_all_commits=true&show_icons=true&count_private=true&theme=dark&disable_animations=true&hide=stars)
 
