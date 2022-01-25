@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos 👋
 
-- 🔭 I’m not working
+- 🔭 I’m currently not working
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me:
   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/carlos-ant%C3%B4nio-gon%C3%A7alves-martins-9a41b6190)
