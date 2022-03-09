@@ -7,7 +7,7 @@ I'm Carlos Antônio a Full Stack Web Developer who spend most of time coding out
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/carlos-ant%C3%B4nio-gon%C3%A7alves-martins-9a41b6190)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-gon%C3%A7alves-martins-9a41b6190)
 
 #### Top Technologies
 
