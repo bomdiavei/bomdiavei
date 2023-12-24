@@ -24,7 +24,6 @@ Passionate and dedicated systems analyst on a journey in the realm of code for o
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Material-UI Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&labelColor=black&logo=mui&logoColor=007FFF)](https://material-ui.com/)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 
 My technical proficiency includes JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, Axios, Material-UI, Styled Components, CSS, Sass, Tailwind CSS, HTML, Figma, Git, GitHub, JSON Web Tokens, Lodash, React Final Form, Rest API and MySQL.
 
