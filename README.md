@@ -2,6 +2,8 @@
 
 I'm Carlos Antônio a Full Stack Web Developer who spend most of time coding outstanding projects.
 
+<img src="./image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 - 👨‍🎓 I have a Bachelor's degree in Information Systems
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning TypeScript
