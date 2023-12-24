@@ -2,19 +2,25 @@
 
 I'm Carlos Antônio a Full Stack Web Developer who spend most of time coding outstanding projects.
 
+- 👨‍🎓 I have a Bachelor's degree in Information Systems
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning TypeScript
 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-gon%C3%A7alves-martins-9a41b6190)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bomdiavei)
 
-#### Top Technologies
+#### Top Technologies:
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Material-UI Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&labelColor=black&logo=mui&logoColor=007FFF)](https://material-ui.com/)
+
+#### Tools:
+
+[![VS Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#)
 
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=bomdiavei&include_all_commits=true&show_icons=true&count_private=true&theme=dark&disable_animations=true&hide=stars)
 
